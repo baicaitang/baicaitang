@@ -1,16 +1,23 @@
-### Hi there 👋
+:beer: Hi,I'm a Front end learner.
 
-<!--
-**baicaitang/baicaitang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:books: Learning all the time...
 
-Here are some ideas to get you started:
+If you can help me, I'll give it to you
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:poultry_leg:
+
+:lollipop:
+
+:icecream:
+
+:hamburger:
+
+:rice_ball:
+
+:cake:
+
+:cookie:
+
+:chocolate_bar:
+
+
