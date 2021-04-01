@@ -1,8 +1,6 @@
-:beer: Hi,I'm a Front end learner.
+:beer: Hi,去适应前端学习者.
 
-:books: Learning all the time...
-
-If you can help me, I'll give it to you
+:books: 一直在学习...
 
 :poultry_leg:
 
