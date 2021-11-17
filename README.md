@@ -1,6 +1,6 @@
-:beer: Hi,我是一个前端学习者.
+:beer: Hi!
 
-:books: 一直在学习...
+:books: 正在学习...
 
 :poultry_leg:
 
